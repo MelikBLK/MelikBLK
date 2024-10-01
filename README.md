@@ -6,7 +6,7 @@ I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **
 ---
 
 ### 👀 **I’m interested in**:
-- Exploring cutting-edge **AI** technologies and applying them to real-world problems in Financial Markets, Agricultrure and Radio Imagery Diagnostics.
+- Exploring cutting-edge **AI** technologies and applying them to real-world problems in Financial Markets, Agricultrure and Radio Imagery Diagnosis.
 - Leveraging **AI**, **Machine Learning**, and **Deep Learning** for predictive modeling, automation, and optimization.
 
 ---
@@ -18,7 +18,7 @@ I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **
 ---
 
 ### 🚀 **I’m looking to apply my knowledge in**:
-- **Finance**: Enhancing predictive analytics and automation in financial markets analysis.
+- **Finance**: Enhancing predictive analytics and automation in financial markets.
 - **Healthcare**: Applying AI for better diagnostics and medical imagery classification.
 - **Agriculture**: Using AI to improve resource management and efficiency in agricultural industries.
 
