@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm @MelikBLK!  
 
-I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** technologies, and their ability to solve complex challenges across industries. From **finance** to **healthcare** and **agriculture**, I believe in AI’s transformative power to drive innovation and efficiency.
+I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning** technologies, and their ability to solve complex challenges across industries. I believe in AI’s transformative power to drive innovation and efficiency.
 
 ---
 
